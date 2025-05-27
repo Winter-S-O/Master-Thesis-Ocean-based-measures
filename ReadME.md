@@ -10,18 +10,3 @@ This script scans PDF documents for specified keywords, including content found 
 
 ## 📦 Installation
 
-```bash
-pip install pdfplumber xlsxwriter
-
-project-folder/
-├── Keyword_Analysis_Ocean.py
-├── data/
-│   ├── Norway/
-│   │   ├── file1.pdf
-│   │   ├── file2.pdf
-│   ├── Japan/
-│   │   ├── file1.pdf
-│   │   ├── file2.pdf
-│   └── Brazil/
-│       ├── file1.pdf
-│       ├── file2.pdf
