@@ -8,5 +8,3 @@ This script scans PDF documents for specified keywords, including content found 
 - Searches for user-defined **keywords** (case-insensitive)
 - Outputs matches with page numbers into a formatted **Excel file**
 
-## 📦 Installation
-
