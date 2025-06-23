@@ -1,7 +1,7 @@
 import os
 import re
 import xlsxwriter
-import pdfplumber  # Use pdfplumber for better table handling
+import pdfplumber  # pdfplumber for better table handling
 
 # Function to scan a PDF for keywords, including content in tables
 def scan_pdf_with_pdfplumber(file_path, keywords):
